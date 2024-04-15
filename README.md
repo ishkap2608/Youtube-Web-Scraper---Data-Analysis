@@ -14,3 +14,7 @@ Welcome to our Web Scraping, Data Analysis & Visualization project!
 
 - **Data Visualization:** Matplotlib and Seaborn are employed to create visually appealing charts and graphs, making it easier to interpret the findings.
 
+
+  Made With Love:
+    Ishaan Kapur :)
+
